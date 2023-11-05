@@ -1,0 +1,43 @@
+Staying Updated
+
+Objective: The objective of this assignment is to cultivate the habit of staying informed about TRON developments and advancements within the TRON blockchain ecosystem.
+
+Instructions:
+
+Task Description:
+
+In this assignment, students will establish a routine for staying updated on TRON news, updates, and advancements. Staying informed about developments in the TRON blockchain ecosystem is essential for TRON developers to remain up-to-date with the latest features, improvements, and opportunities.
+
+Requirements:
+
+1. Research and Plan:
+
+Instruct students to research and identify various methods and sources for staying updated on TRON developments. They can consider the following options:
+Google Alerts: Setting up Google Alerts for specific TRON-related keywords.
+Newsletter Subscriptions: Subscribing to newsletters from TRON-related websites or organizations.
+Official TRON Channels: Following TRON's official social media accounts, blogs, or forums.
+Developer Communities: Joining TRON developer communities, forums, or Discord/Telegram channels.
+News Aggregators: Using news aggregator websites or apps that curate blockchain-related news.
+2. Routine Development:
+
+Students should create a routine that outlines how they will stay updated. This routine should include specific actions they will take, such as:
+Frequency of checking news sources or channels.
+Preferred time for reading or watching updates.
+Methods for organizing and categorizing information.
+Engagement with TRON community discussions.
+3. Implementation:
+
+Students should put their routine into practice and actively follow their chosen methods for staying updated.
+They should document their experiences, including the sources they used and any noteworthy news, updates, or advancements they came across during the course of the assignment.
+4. Summary and Reflection:
+
+At the end of the assignment period, students should provide a summary of their routine, including insights into the effectiveness of their chosen methods for staying updated.
+Encourage students to reflect on the importance of staying informed and how it benefits their role as TRON developers.
+5. Sharing and Discussion:
+
+Encourage students to share any relevant news, updates, or interesting developments they come across during the assignment. This can be done within the course's online platform or a dedicated discussion forum.
+Promote discussions among students about the significance of the news and its potential impact on TRON development.
+6. Evaluation:
+
+Evaluate students' routines and their ability to effectively stay updated on TRON developments.
+Consider the depth and relevance of the news or updates they share and the quality of their reflections on the assignment.

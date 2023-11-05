@@ -1,0 +1,35 @@
+Attending TRON Meetup
+
+Objective: The objective of this assignment is to encourage students to actively participate in TRON meetups or events, fostering networking and collaboration within the TRON developer community.
+
+Instructions:
+
+Task Description:
+
+In this assignment, students will have the opportunity to engage with the TRON community on a deeper level by attending a TRON-related meetup or event. By participating in discussions, connecting with fellow TRON developers and enthusiasts, and sharing their insights, students will broaden their knowledge and network within the TRON ecosystem.
+
+Requirements:
+
+1. Event Selection:
+
+Instruct students to find and select a TRON-related meetup or event that aligns with their interests and availability. The event can be either local or conducted online.
+2. Event Participation:
+
+Students should actively participate in the selected meetup or event. Their activities may include:
+Engaging in discussions during the event, whether through Q&A sessions, panel discussions, or group chats.
+Asking questions, seeking clarifications, or sharing their thoughts on topics related to TRON development and blockchain technology.
+Connecting with other attendees, including fellow students, developers, and event speakers.
+3. Event Documentation:
+
+Students are required to document their participation in the meetup or event. They should provide evidence of their attendance, such as:
+Confirmation emails or registration receipts.
+Screenshots of event sessions or discussions they actively participated in.
+4. Post-Event Reflection:
+
+After attending the meetup or event, students should write a summary or reflection on their experience. They should address the following points:
+Key takeaways from the event, including new knowledge or insights gained.
+Any connections or contacts they made during the event, such as fellow developers, speakers, or organizers.
+How attending the event has contributed to their understanding of TRON development and the broader blockchain ecosystem.
+5. Evaluation:
+
+Evaluate students' participation based on the depth of their engagement during the event and the quality of their post-event reflection. Consider their ability to actively contribute to discussions and their ability to reflect on the significance of attending the event.

@@ -1,0 +1,43 @@
+Smart Contract Security Assessment
+
+Objective: The objective of this assignment is to evaluate students' comprehension of common security vulnerabilities in TRON smart contracts. By analyzing and identifying vulnerabilities in a vulnerable smart contract, students will enhance their knowledge of secure coding practices and the importance of security in blockchain development.
+
+Instructions:
+
+Task Description:
+
+In this assignment, students will assess the security of a provided TRON smart contract code. The contract will intentionally contain common security vulnerabilities, such as reentrancy, unchecked user inputs, or unchecked contract interactions. Students are required to identify and document these vulnerabilities, explain potential risks, and propose fixes or improvements to enhance the contract's security.
+
+Requirements:
+
+1. Vulnerable Smart Contract:
+
+Provide students with a vulnerable TRON smart contract code. This code should include common security vulnerabilities, but it should not be overly complex to ensure that students can analyze it effectively.
+2. Vulnerability Identification:
+
+Instruct students to carefully review the provided smart contract and identify the security vulnerabilities present in the code. They should clearly document each vulnerability they find.
+3. Risk Assessment:
+
+Ask students to explain the potential risks associated with each identified vulnerability. They should describe what malicious actions could be taken to exploit these vulnerabilities and the potential consequences.
+4. Proposed Fixes:
+
+Encourage students to propose fixes or improvements to address the identified vulnerabilities. They should provide code snippets or explanations of how the code can be modified to enhance security.
+5. Documentation:
+
+Require students to create a comprehensive report or presentation that includes the following:
+Introduction and background information about smart contract security.
+Detailed descriptions of each identified vulnerability.
+Risk assessment for each vulnerability.
+Proposed fixes or improvements.
+A conclusion summarizing the importance of smart contract security.
+6. Peer Review:
+
+Consider implementing a peer review component where students evaluate and provide feedback on each other's security assessments.
+Evaluation:
+
+Your assignment will be evaluated based on the following criteria:
+
+Accuracy of vulnerability identification.
+Depth and clarity of risk assessment.
+Effectiveness and practicality of proposed fixes or improvements.
+Quality of the documentation, including organization and presentation.

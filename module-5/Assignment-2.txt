@@ -1,0 +1,35 @@
+Advanced DApp Development
+
+Objective: The objective of this assignment is to challenge students to create complex decentralized applications (DApps) on the TRON blockchain, integrating advanced features and demonstrating their ability to design and implement sophisticated smart contract interactions.
+
+Instructions:
+
+Task Description:
+
+In this assignment, students will take on the challenge of building an advanced decentralized application (DApp) on the TRON blockchain. Unlike basic DApps, these advanced DApps should incorporate complex features and functionalities. Students can choose from various use cases such as decentralized finance (DeFi), non-fungible tokens (NFTs), gaming, or any other innovative idea that involves advanced smart contract interactions.
+
+Requirements:
+
+1. DApp Proposal:
+
+Ask students to submit a proposal outlining their DApp idea. The proposal should include a detailed description of the DApp's purpose, target audience, key features, and a rough architectural plan. You can review and approve the proposals before students begin development.
+2. Advanced Features:
+
+Encourage students to integrate advanced features into their DApps. These features could include, but are not limited to:
+Oracles: Implementing oracles to fetch off-chain data and feed it into smart contracts.
+Complex Smart Contract Interactions: Developing smart contracts that interact with multiple other contracts in intricate ways.
+Tokenomics: Designing and implementing a token system with staking, rewards, or governance mechanisms.
+Advanced User Interfaces: Building a polished and user-friendly front-end for the DApp.
+Security Considerations: Implementing security measures to protect against vulnerabilities.
+3. Documentation:
+
+Require students to document the entire development process. They should explain the design decisions they made, describe the challenges they faced, and provide code explanations where necessary. This documentation should be organized and comprehensive.
+4. Presentation or Demonstration:
+
+Organize a presentation or demonstration session where students showcase their advanced DApps to the class. This can include a live demonstration of the DApp's functionality, sharing code snippets, and explaining their architectural choices.
+5. Evaluation:
+
+Assess the DApps based on their complexity, innovation, functionality, user experience, and security. Consider the quality of documentation and the effectiveness of the presentation or demonstration.
+6. Peer Review (Optional):
+
+Optionally, you can introduce a peer review component where students evaluate each other's DApps and provide constructive feedback.

@@ -1,0 +1,42 @@
+Secure Smart Contract Development
+
+Objective: The objective of this assignment is to reinforce best practices for secure TRON smart contract development. By developing a TRON smart contract while adhering to security best practices, students will gain practical experience in writing secure code and mitigating potential vulnerabilities.
+
+Instructions:
+
+Task Description:
+
+In this assignment, students will develop a TRON smart contract of their choice while strictly following a set of security best practices. They should document their development process, highlighting how they implemented measures to prevent vulnerabilities. Students can choose the type of smart contract they want to create (e.g., token, game, or utility) as long as they demonstrate secure coding practices.
+
+Requirements:
+
+1. Choose Smart Contract Type:
+
+Allow students to select the type of TRON smart contract they wish to develop. This could include a token contract, a decentralized application (DApp) contract, or any other type they find interesting.
+2. Security Best Practices:
+
+Provide students with a list of security best practices and guidelines for TRON smart contract development. Emphasize areas such as input validation, state management, gas efficiency, and reentrancy prevention.
+3. Development Process:
+
+Instruct students to document their entire development process. They should provide details on how they applied each security best practice during the development of their smart contract.
+4. Code Repository:
+
+Require students to create a public code repository (e.g., GitHub) for their smart contract project. This repository should include all source code, documentation, and relevant files.
+5. Secure Coding Showcase:
+
+Encourage students to showcase their secure coding practices through code comments, annotations, or a separate security document within the repository.
+6. Testing and Deployment:
+
+Ask students to test their smart contract on a TRON testnet to ensure that it functions correctly and securely.
+7. Documentation:
+
+Require students to create comprehensive documentation for their smart contract, including explanations of the contract's purpose, functions, and security measures.
+8. Presentation or Report:
+
+Have students present their smart contract project to the class or submit a report that covers the following:
+Introduction to the chosen smart contract type and its purpose.
+Detailed description of the security best practices applied during development.
+Code snippets or examples illustrating how these practices were implemented.
+Any challenges faced during development and how they were resolved.
+Testing results and deployment details.
+A reflection on the importance of secure coding practices in blockchain development.

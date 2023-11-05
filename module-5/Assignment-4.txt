@@ -1,0 +1,36 @@
+Oracles and Data Integration
+
+Objective: The objective of this assignment is to reinforce students' understanding of integrating oracles and off-chain data into decentralized applications (DApps) on the TRON blockchain.
+
+Instructions:
+
+Task Description:
+
+In this assignment, students will focus on integrating oracles to fetch real-world data and incorporate it into a decentralized application (DApp) on the TRON blockchain. Oracles play a crucial role in connecting blockchain-based smart contracts with external data sources.
+
+Requirements:
+
+1. Use Case Selection:
+
+Provide students with a specific DApp use case that requires real-world data integration. Examples of use cases include weather updates, stock prices, sports scores, or any other relevant real-world data.
+2. DApp Design and Implementation:
+
+Instruct students to design and implement the DApp based on the selected use case. The DApp should be built on the TRON blockchain, and its primary functionality should involve fetching and utilizing real-time data.
+3. Oracle Integration:
+
+Students should integrate an oracle into their DApp to fetch the required real-world data. They can choose from existing TRON-compatible oracle solutions or develop a custom solution if they have the expertise.
+4. Data Accuracy and Security:
+
+Emphasize the importance of ensuring data accuracy and security. Students should document how they verified the authenticity of the fetched data and implemented security measures to prevent tampering.
+5. Documentation:
+
+Require students to provide comprehensive documentation of the integration process, including details on how they set up the oracle, configured it, and connected it to the DApp. The documentation should also include any challenges faced and solutions implemented.
+6. User Interaction:
+
+Students should demonstrate how users can interact with the DApp to access the real-world data and any actions they can perform based on that data.
+7. Presentation:
+
+Organize a presentation session where students showcase their DApps and explain the use case, oracle integration, and the significance of real-world data in their DApps.
+8. Evaluation:
+
+Evaluate the quality of the DApp, including the accuracy of data integration, the effectiveness of the oracle solution, and the overall user experience.

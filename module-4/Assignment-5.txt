@@ -1,0 +1,51 @@
+Secure Deployment and Testing
+
+Objective: The objective of this assignment is to reinforce secure deployment and testing practices for TRON smart contracts. By deploying a smart contract and thoroughly testing it, students will gain practical experience in ensuring both functionality and security.
+
+Instructions:
+
+Task Description:
+
+In this assignment, students will be tasked with deploying a TRON smart contract to a testnet or the TRON mainnet. They will document the deployment process, including security considerations and key configurations. Additionally, students will write comprehensive test cases to verify the contract's functionality and security. The assignment should include both deployment instructions and a test report.
+
+Requirements:
+
+1. Smart Contract Deployment:
+
+Instruct students to choose or provide a TRON smart contract that is suitable for deployment. They should deploy this contract to either a TRON testnet or the TRON mainnet. If students choose to deploy to the mainnet, they should use a small amount of test TRX for this purpose.
+2. Deployment Documentation:
+
+Ask students to document the entire smart contract deployment process step by step. The documentation should include:
+Selection of the smart contract.
+Configuration of deployment tools (e.g., TronBox, TronWeb).
+Steps for deploying the contract.
+Any security considerations taken during deployment (e.g., setting access controls, confirming contract interactions).
+3. Test Case Development:
+
+Require students to develop a set of comprehensive test cases to verify the functionality and security of the deployed smart contract. The test cases should cover a range of scenarios, including typical use cases and edge cases. Emphasize the importance of testing for security vulnerabilities.
+4. Testing Documentation:
+
+Instruct students to document their testing process. The documentation should include:
+Detailed descriptions of test cases.
+Expected outcomes for each test case.
+Results and observations, including any issues or vulnerabilities discovered during testing.
+Remediation steps for any identified issues.
+5. Test Report:
+
+Ask students to compile their deployment documentation and testing documentation into a comprehensive test report. The report should provide a clear overview of the deployment process, the testing approach, and the outcomes.
+6. Secure Deployment Best Practices:
+
+Encourage students to research and incorporate secure deployment best practices into their deployment process. These may include setting proper permissions, using secure key management, and verifying contract interactions.
+7. Presentation (Optional):
+
+Optionally, students can present their deployment and testing findings to the class. Presentations should include an overview of the deployment process, key security considerations, and notable test results.
+Evaluation:
+
+Your assignment will be evaluated based on the following criteria:
+
+Completeness and accuracy of deployment documentation.
+Quality and coverage of test cases.
+Thoroughness and clarity of testing documentation.
+Effectiveness of security considerations during deployment.
+Overall quality and organization of the test report.
+Presentation skills (for presentations) or report organization and structure (for written reports).

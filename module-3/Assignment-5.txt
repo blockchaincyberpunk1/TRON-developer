@@ -1,0 +1,51 @@
+Creating TRC-721 Tokens (NFTs)
+
+Objective: The objective of this assignment is to instruct students on how to create non-fungible tokens (NFTs) on the TRON blockchain using the TRC-721 standard. By completing this assignment, students will gain practical experience in developing and deploying NFTs, which have gained significant attention in the blockchain and digital art industries.
+
+Instructions:
+
+Task Description:
+
+In this assignment, students will be tasked with creating a unique non-fungible token (NFT) on the TRON blockchain using the TRC-721 standard. They will develop a digital item or collectible, tokenize it as an NFT, and provide details on the token's metadata, ownership, and the smart contract governing its behavior.
+
+Requirements:
+
+1. NFT Concept:
+
+Allow students to choose a concept for their TRC-721 NFT. It could be a digital art piece, a collectible item for a virtual game, or any other unique digital creation.
+2. Token Metadata:
+
+Instruct students to define the metadata associated with their NFT. This metadata should include details about the item, such as its name, description, image (URL or IPFS hash), and any other relevant attributes.
+3. Smart Contract Development:
+
+Guide students in writing the TRC-721 smart contract for their NFT. The smart contract should include functions for minting new tokens, transferring ownership, and verifying token ownership.
+4. Token Minting:
+
+Instruct students on how to mint their NFTs using the smart contract they've developed. They should create a limited number of these unique tokens.
+5. Token Ownership:
+
+Explain how students can transfer ownership of their NFTs to others or how ownership can be verified.
+6. Metadata Storage:
+
+Discuss the best practices for storing NFT metadata, whether through traditional URLs or IPFS (InterPlanetary File System), and explain the advantages of each approach.
+7. Documentation:
+
+Require students to create documentation for their TRC-721 NFT, including information on how others can view, verify, and potentially purchase or trade their NFTs.
+8. Presentation:
+
+Ask students to present their TRC-721 NFTs to the class. They should provide an overview of the item, its metadata, and the unique features that make it collectible.
+9. Testing and Debugging:
+
+Encourage students to thoroughly test and debug their NFT smart contract to ensure it functions correctly.
+10. Peer Evaluation:
+
+Consider implementing a peer evaluation component where students provide feedback and suggestions on each other's NFT projects.
+Evaluation:
+
+Your assignment will be evaluated based on the following criteria:
+
+Creativity and uniqueness of the NFT concept and metadata.
+Correct implementation of the TRC-721 smart contract.
+Successful minting and transfer of NFTs.
+Quality of the documentation and user instructions.
+Quality of the presentation, including clarity and demonstration of the NFT's unique attributes.

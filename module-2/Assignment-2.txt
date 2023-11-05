@@ -1,0 +1,49 @@
+TRON Smart Contract Overview
+
+Objective: The objective of this assignment is to familiarize students with TRON's smart contract development environment, specifically the TRON Virtual Machine (TVM), and to understand the key differences between Ethereum and TRON in the context of smart contract development.
+
+Instructions:
+
+Task Description:
+
+In this assignment, students will research and prepare a presentation or report that explains the fundamental differences between Ethereum and TRON with regard to smart contract development. They should focus on aspects like programming languages, execution environments, and how TRON's approach diverges from Ethereum's EVM (Ethereum Virtual Machine).
+
+Requirements:
+
+1. Research:
+
+Conduct thorough research to understand Ethereum's smart contract development ecosystem, including the EVM, Solidity programming language, and related tools.
+2. Research:
+
+Conduct in-depth research into TRON's smart contract development ecosystem, with a focus on the TRON Virtual Machine (TVM), programming languages supported (e.g., Solidity, TRON's native language), and development tools.
+3. Comparative Analysis:
+
+Prepare a comparative analysis that highlights the key differences between Ethereum and TRON in terms of smart contract development.
+Include information about the programming languages used for smart contracts on each platform.
+Explain the execution environments (EVM vs. TVM) and how they function differently.
+Discuss any notable advantages or disadvantages of each platform's approach to smart contracts.
+4. Presentation or Report:
+
+Create a presentation or a written report summarizing your findings.
+Include visuals, diagrams, or charts to enhance your presentation or report.
+5. Presentation Format (If Applicable):
+
+If you choose to create a presentation, use a slide deck format with clear headings and visuals.
+6. Presentation or Report Length:
+
+Ensure that your presentation or report is concise and informative, typically ranging from 5 to 10 minutes for a presentation or 3 to 5 pages for a report.
+7. Presentation Delivery (If Applicable):
+
+If you opt for a presentation, prepare to present your findings to the class. Be ready to answer questions and engage in a discussion about Ethereum and TRON smart contract development.
+8. Submission:
+
+Submit your presentation slides or report as per the instructor's guidelines.
+Evaluation:
+
+Your assignment will be evaluated based on the following criteria:
+
+Completeness and accuracy of the comparative analysis.
+Clarity and organization of the presentation or report.
+In-depth understanding of Ethereum and TRON smart contract development.
+Presentation skills (if applicable).
+Proper referencing and citing of sources (if any).

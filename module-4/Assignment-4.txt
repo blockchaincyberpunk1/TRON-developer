@@ -1,0 +1,50 @@
+Optimization Techniques
+
+Objective: The objective of this assignment is to improve students' skills in optimizing TRON smart contracts. By identifying and addressing performance bottlenecks and inefficiencies, students will learn how to make contracts more efficient and cost-effective.
+
+Instructions:
+
+Task Description:
+
+In this assignment, students will be provided with a TRON smart contract that has known performance bottlenecks or inefficiencies. Their task is to analyze the contract's code, apply optimization techniques, and make the contract more efficient and cost-effective. Students should document their optimization process and compare the contract's performance before and after the improvements.
+
+Requirements:
+
+1. Assigned Smart Contract:
+
+Provide students with a TRON smart contract source code that exhibits performance bottlenecks or inefficiencies. The contract should be chosen to challenge students in optimizing specific aspects of the code.
+2. Optimization Process:
+
+Instruct students to conduct an in-depth analysis of the assigned smart contract. They should identify areas where performance can be improved, such as reducing gas costs or optimizing storage usage.
+3. Code Optimization:
+
+Require students to apply optimization techniques to the contract's code. These techniques may include, but are not limited to:
+Refactoring code to eliminate redundancy.
+Implementing gas-efficient algorithms and data structures.
+Minimizing storage operations.
+Reducing contract complexity.
+4. Documentation:
+
+Ask students to document their optimization process. Their documentation should include:
+Descriptions of identified bottlenecks or inefficiencies.
+Detailed explanations of optimization techniques applied.
+Code snippets illustrating optimizations made.
+Gas cost comparisons before and after optimizations.
+5. Performance Comparison:
+
+Have students evaluate and measure the performance of the contract before and after optimizations. They should use appropriate tools or methodologies to assess gas costs, execution speed, and resource usage.
+6. Report:
+
+Require students to create a report summarizing their optimization work. The report should include an overview of the original issues, the optimization process, performance metrics, and the impact of optimizations.
+7. Presentation (Optional):
+
+Optionally, students can present their optimization findings and outcomes to the class. Presentations should highlight the key optimization strategies and their effects on contract performance.
+Evaluation:
+
+Your assignment will be evaluated based on the following criteria:
+
+Thoroughness and effectiveness of the optimization process.
+Quality and completeness of the documentation and report.
+Clear explanations of optimization techniques applied.
+Demonstrated improvements in contract performance.
+Presentation skills (for presentations) or report organization and structure (for written reports).

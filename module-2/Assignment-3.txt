@@ -1,0 +1,42 @@
+TRON Smart Contract Development
+
+Objective: The objective of this assignment is to enable students to create their first smart contracts on the TRON blockchain, reinforcing their understanding of TRON's smart contract development ecosystem.
+
+Instructions:
+
+Task Description:
+
+In this assignment, students will apply their knowledge of TRON's smart contract development ecosystem to create a simple smart contract. They will choose one from a set of provided smart contract scenarios or use cases, then develop and deploy the corresponding smart contract on the TRON testnet.
+
+Requirements:
+
+1. Scenario Selection:
+
+Provide students with a list of simple smart contract scenarios or use cases (e.g., token creation, voting system, basic decentralized application).
+Ask each student to choose one scenario that interests them.
+2. Smart Contract Development:
+
+Instruct students to develop a smart contract using the TRON ecosystem. They should use TRON's native language or Solidity, depending on the scenario and their preference.
+The smart contract should include basic state management and interaction functions relevant to the chosen scenario. For example, if they choose a token creation scenario, the contract should have functions for minting and transferring tokens.
+3. Documentation:
+
+Require students to document their smart contract code comprehensively. The documentation should include explanations of the contract's functions, variables, and overall functionality.
+Encourage them to use comments and clear naming conventions to enhance code readability.
+4. Testnet Deployment:
+
+Instruct students to deploy their smart contracts on the TRON testnet. They should obtain the contract's address after deployment.
+5. Contract Interaction:
+
+Encourage students to interact with their deployed smart contract on the testnet to verify its functionality. They should test different contract functions and provide examples of successful interactions.
+6. Submission:
+
+Ask students to submit their smart contract code, documentation, and the contract's testnet address.
+Evaluation:
+
+Your assignment will be evaluated based on the following criteria:
+
+Completeness and correctness of the smart contract code.
+Quality and clarity of the code documentation.
+Successful deployment of the smart contract on the TRON testnet.
+Evidence of interaction with the deployed contract to demonstrate its functionality.
+Adherence to best practices in smart contract development.

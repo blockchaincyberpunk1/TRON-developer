@@ -1,0 +1,59 @@
+Solidity Basics
+
+Objective: The objective of this assignment is to introduce students to Solidity, the programming language for Ethereum smart contracts, and help them gain hands-on experience in creating and deploying a simple Ethereum smart contract.
+
+Instructions:
+
+Task Description:
+
+In this assignment, students will create a basic Ethereum smart contract using the Solidity programming language. They will deploy the contract to a test Ethereum network, interact with it, and provide documentation for their code.
+
+Requirements:
+
+1. Solidity Smart Contract:
+
+Choose a simple use case for your smart contract. It can be a basic token contract, a decentralized application (DApp), or any other straightforward scenario.
+Write the Solidity code for your smart contract. Your contract should include at least:
+State variables
+Constructor function
+One or more public functions that modify state variables
+Events (if applicable)
+2. Deployment on a Test Ethereum Network:
+
+Deploy your Solidity smart contract to a test Ethereum network of your choice (e.g., Ropsten, Rinkeby) using tools like Remix, Truffle, or Hardhat.
+Document the deployment process, including any challenges or observations you encountered.
+3. Interactions with the Smart Contract:
+
+Interact with your deployed smart contract by calling its functions from a web-based interface or a tool like Remix.
+Provide examples of interactions, including transactions and method calls, with your smart contract.
+4. Code Documentation:
+
+Document your Solidity code with comments to explain the purpose of each function, variable, and event.
+Include a brief explanation of how your smart contract works and what problem it solves.
+5. Presentation or Report:
+
+Create a presentation or a written report summarizing your experience in creating and deploying the smart contract.
+Include visuals, diagrams, or code snippets to enhance your presentation or report.
+6. Presentation Format (If Applicable):
+
+If you choose to create a presentation, use a slide deck format with clear headings and visuals.
+If you choose to write a report, structure it with sections and subheadings for clarity.
+7. Presentation or Report Length:
+
+Ensure that your presentation or report is concise and informative, typically ranging from 5 to 10 minutes for a presentation or 3 to 5 pages for a report.
+8. Presentation Delivery (If Applicable):
+
+If you opt for a presentation, prepare to present your findings to the class. Be ready to answer questions and engage in a discussion about your smart contract.
+9. Submission:
+
+Submit your presentation slides or report as per the instructor's guidelines.
+Evaluation:
+
+Your assignment will be evaluated based on the following criteria:
+
+Completeness and correctness of the Solidity smart contract.
+Successful deployment of the contract to a test Ethereum network.
+Effective interactions with the smart contract.
+Clarity and organization of the presentation or report.
+Proper documentation of the Solidity code.
+Proper referencing and citing of sources (if any).

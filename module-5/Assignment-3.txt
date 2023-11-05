@@ -1,0 +1,36 @@
+DApp Deployment and User Interface
+
+Objective: The objective of this assignment is to teach students how to deploy DApps on the TRON blockchain and create user-friendly interfaces (UI) to interact with their DApps.
+
+Instructions:
+
+Task Description:
+
+In this assignment, students will take the advanced DApp they developed in the previous assignment and focus on the deployment process and creating a user-friendly interface (UI) for their DApp. This assignment bridges the gap between smart contract development and user interaction, emphasizing the importance of accessibility and usability.
+
+Requirements:
+
+1. DApp Deployment:
+
+Instruct students to deploy their advanced DApps to either a TRON testnet or the TRON mainnet. They should provide clear, step-by-step deployment instructions for their DApps, including necessary configurations and dependencies.
+2. User Interface (UI):
+
+Students should create a user-friendly UI for their DApps using technologies like React.js, Vue.js, or similar frontend frameworks. The UI should allow users to interact with the DApp's functionalities seamlessly.
+3. Integration:
+
+Ensure that the frontend UI integrates smoothly with the TRON smart contract(s) developed in the previous assignment. Students should demonstrate how the UI communicates with the blockchain and smart contracts.
+4. User Experience (UX):
+
+Encourage students to consider user experience (UX) principles when designing the UI. The UI should be intuitive, responsive, and visually appealing.
+5. Documentation:
+
+Require students to document the deployment process, UI design choices, and integration with smart contracts. They should explain how users can interact with the DApp and any special considerations regarding the user interface.
+6. Demonstration:
+
+Organize a demonstration session where students showcase their deployed DApps and user interfaces. Students should walk through the DApp's functionality, demonstrating how users can perform actions.
+7. Evaluation:
+
+Assess the quality of the DApp deployment process, the effectiveness of the user interface, and the overall user experience. Consider factors such as accessibility, responsiveness, and ease of use.
+8. Peer Review (Optional):
+
+Optionally, you can introduce a peer review component where students evaluate each other's DApps and provide constructive feedback on the UI and user experience.

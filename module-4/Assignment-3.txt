@@ -1,0 +1,41 @@
+Smart Contract Auditing
+
+Objective: The objective of this assignment is to teach students how to audit and review TRON smart contracts for security. By conducting a security audit, students will gain valuable experience in identifying vulnerabilities and proposing optimizations to enhance the contract's security and efficiency.
+
+Instructions:
+
+Task Description:
+
+In this assignment, students will be provided with a TRON smart contract and tasked with performing a comprehensive security audit. They should thoroughly review the contract's code, analyze potential vulnerabilities, and provide a detailed audit report. Additionally, students can propose optimizations to enhance the contract's security and efficiency.
+
+Requirements:
+
+1. Assigned Smart Contract:
+
+Provide students with a TRON smart contract source code for auditing. The contract can be of any type (e.g., token, DApp, utility), but it should contain potential vulnerabilities or areas for improvement.
+2. Security Audit:
+
+Instruct students to perform a security audit on the provided smart contract. This audit should focus on identifying and documenting security vulnerabilities, code weaknesses, and potential attack vectors.
+3. Audit Report:
+
+Require students to create a detailed audit report that includes the following:
+Introduction to the audited smart contract and its purpose.
+A summary of the audit findings, including identified vulnerabilities and weaknesses.
+Detailed explanations of each identified issue, with code snippets and potential consequences.
+Recommendations and proposed code improvements to mitigate vulnerabilities.
+Suggestions for enhancing the contract's efficiency and gas optimization, if applicable.
+4. Code Repository:
+
+Ask students to create a public code repository (e.g., GitHub) for their audit project. This repository should contain the audited contract code, the audit report, and any proposed code improvements.
+5. Presentation or Report:
+
+Have students present their audit findings to the class or submit a written report. The presentation or report should include an overview of the audit process, key findings, and proposed solutions.
+Evaluation:
+
+Your assignment will be evaluated based on the following criteria:
+
+Thoroughness and accuracy of the security audit.
+Quality and completeness of the audit report.
+Clarity of explanations and code snippets.
+Effectiveness of proposed solutions and optimizations.
+Presentation skills (for presentations) or report organization and structure (for written reports).

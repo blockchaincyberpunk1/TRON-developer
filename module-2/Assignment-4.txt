@@ -1,0 +1,46 @@
+Cross-Platform Smart Contract
+
+Objective: The objective of this assignment is to demonstrate the versatility of smart contract development by creating a smart contract that can run on both Ethereum and TRON blockchains. Students will adapt the contract to be compatible with both Solidity (Ethereum) and TRON's supported programming languages. This assignment encourages students to understand the differences and commonalities between the two platforms.
+
+Instructions:
+
+Task Description:
+
+In this assignment, students will explore the compatibility of smart contracts across different blockchain platforms by creating a cross-platform smart contract. The goal is to develop a smart contract that can be deployed and executed on both the Ethereum and TRON blockchains.
+
+Requirements:
+
+1. Smart Contract Scenario:
+
+Provide students with a choice of a simple smart contract scenario or use case (e.g., token creation, voting system, basic decentralized application).
+Ask each student to choose one scenario from the list.
+2. Development for Ethereum:
+
+Instruct students to develop the smart contract using Solidity, the programming language for Ethereum smart contracts.
+The contract should include all necessary functions and features to fulfill the chosen scenario.
+3. Development for TRON:
+
+Require students to adapt the same smart contract to be compatible with TRON's supported programming languages, such as Solidity for TRON or any other language used on the TRON blockchain.
+They should ensure that the contract's logic and functionality are preserved when transitioning to TRON.
+4. Documentation:
+
+Students should provide comprehensive documentation for both versions of the smart contract. The documentation should include explanations of the contract's functions, variables, and overall functionality.
+5. Testnet Deployment and Interaction:
+
+Instruct students to deploy both versions of the smart contract on the respective testnets of Ethereum and TRON.
+Encourage them to interact with the deployed contracts on both testnets to verify their functionality. They should test different contract functions and provide examples of successful interactions.
+6. Comparative Analysis:
+
+Ask students to provide a comparative analysis of the development experience, similarities, and differences they encountered when adapting the smart contract for Ethereum and TRON.
+7. Submission:
+
+Students should submit the code for both versions of the smart contract, along with their documentation and any comparative analysis.
+Evaluation:
+
+Your assignment will be evaluated based on the following criteria:
+
+Completeness and correctness of both versions of the smart contract code.
+Quality and clarity of the code documentation for both versions.
+Successful deployment of both versions on the Ethereum and TRON testnets.
+Evidence of interaction with both deployed contracts to demonstrate their functionality.
+A well-structured comparative analysis of the development experience on both platforms.

@@ -1,0 +1,45 @@
+Collaboration on Open Source Projects
+
+Objective: The objective of this assignment is to actively involve students in contributing to open-source TRON projects, fostering collaboration within the TRON developer community.
+
+Instructions:
+
+Task Description:
+
+In this assignment, students will have the opportunity to contribute to open-source TRON projects or tools. By making meaningful contributions, such as code enhancements, documentation improvements, or bug fixes, students will not only expand their knowledge but also contribute to the growth of the TRON ecosystem.
+
+Requirements:
+
+1. Project Selection:
+
+Instruct students to identify an open-source TRON project or tool that aligns with their interests and skills. They can explore platforms like GitHub to find suitable projects.
+2. Contribution Planning:
+
+Students should analyze the chosen project's repository and identify areas where they can make contributions. This could include code improvements, adding new features, enhancing documentation, or fixing reported issues.
+3. Contribution Execution:
+
+Encourage students to actively contribute to the selected project by following these steps:
+Fork the project's repository to create their own copy.
+Create a branch for their contribution.
+Make the necessary code changes, documentation updates, or bug fixes.
+Test their changes to ensure they do not introduce new issues.
+Commit and push their changes to their forked repository.
+Create a pull request (PR) to propose their contributions to the project's maintainers.
+4. Documentation:
+
+Students should thoroughly document their contribution process. This includes:
+A description of the contribution they made, including code changes, documentation updates, or bug fixes.
+Any discussions or feedback received during the PR review process.
+Screenshots or examples demonstrating their contributions.
+5. Evidence of Contribution:
+
+Students should provide evidence of their contribution, such as links to their pull requests or merged changes in the project's repository.
+6. Post-Contribution Reflection:
+
+After their contributions have been reviewed and accepted or merged into the project, students should write a reflection on their experience. They should address the following points:
+The significance of their contribution to the TRON developer community.
+Any challenges they encountered during the contribution process and how they overcame them.
+The skills and knowledge they gained through their participation.
+7. Evaluation:
+
+Evaluate students' contributions based on the quality and impact of their work, as well as their ability to engage effectively with the open-source project's maintainers and community.

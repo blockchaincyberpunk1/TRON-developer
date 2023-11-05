@@ -1,0 +1,48 @@
+TRON Smart Contract Deployment
+
+Objective: The objective of this assignment is to guide students in deploying TRON smart contracts to a TRON testnet. By providing step-by-step instructions and requiring students to use TRON development tools, they will gain practical experience in the deployment process.
+
+Instructions:
+
+Task Description:
+
+In this assignment, students will focus on deploying a TRON smart contract to a TRON testnet. They should use TRON-specific development tools such as TronBox or TronWeb for the deployment process. Your task is to provide step-by-step deployment instructions, including necessary configurations and contract addresses.
+
+Requirements:
+
+1. Selection of Smart Contract:
+
+Allow students to choose a TRON smart contract for deployment. It can be one they developed in a previous assignment or a sample contract you provide.
+2. Testnet Selection:
+
+Instruct students to select a TRON testnet for deploying their smart contract. Provide guidance on choosing a suitable testnet environment.
+3. Deployment Steps:
+
+Provide a detailed step-by-step guide for deploying a TRON smart contract. Include the following aspects:
+Setting up the necessary development environment (e.g., TronBox, TronWeb).
+Configuring connection settings to the selected TRON testnet.
+Compiling the smart contract code.
+Deploying the smart contract to the testnet.
+Verifying the contract deployment on the blockchain.
+Obtaining the contract address and other relevant information.
+4. Deployment Instructions:
+
+Instruct students to create a document or presentation that provides clear instructions for each step of the deployment process. They should include screenshots or code snippets where relevant to enhance clarity.
+5. Contract Address Verification:
+
+Ensure that students know how to verify that their smart contract has been successfully deployed by checking the contract's address on the TRON testnet explorer.
+6. Troubleshooting:
+
+Encourage students to include troubleshooting tips for common deployment issues they might encounter.
+7. Submission:
+
+Students should submit their deployment instructions document or presentation.
+Evaluation:
+
+Your assignment will be evaluated based on the following criteria:
+
+Accuracy and completeness of the deployment instructions.
+Clarity and organization of the document or presentation.
+Successful deployment of the smart contract on the selected TRON testnet.
+Ability to verify the contract's address and deployment status.
+Inclusion of troubleshooting tips and solutions for potential issues.

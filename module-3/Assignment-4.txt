@@ -1,0 +1,53 @@
+Creating TRC-20 Tokens
+
+Objective: The objective of this assignment is to instruct students on how to create fungible tokens on the TRON blockchain using the TRC-20 standard. By completing this assignment, students will gain hands-on experience in token creation and deployment, understanding the fundamental concepts of blockchain-based assets.
+
+Instructions:
+
+Task Description:
+
+In this assignment, students will be tasked with creating a TRC-20 token on the TRON blockchain. They will define the properties of the token, deploy it, and provide documentation explaining the use case and functionalities of their newly created token.
+
+Requirements:
+
+1. Token Concept:
+
+Allow students to choose a concept for their TRC-20 token. It can represent anything from a utility token for a DApp to a token for a specific use case.
+2. Token Properties:
+
+Instruct students to define the key properties of their token:
+Token Name: The name of the token.
+Token Symbol: A unique symbol to represent the token.
+Total Supply: The total number of tokens to be created.
+Decimal Places: The number of decimal places for the token (commonly 18).
+3. Smart Contract Development:
+
+Guide students in writing the TRC-20 smart contract for their token. The smart contract should include functions for transferring tokens, checking balances, and managing allowances.
+4. Token Deployment:
+
+Instruct students on how to deploy their TRC-20 token to the TRON blockchain. They should use a testnet for deployment and testing purposes.
+5. Documentation:
+
+Require students to create documentation for their TRC-20 token. This documentation should include:
+An overview of the token's purpose and use case.
+Instructions for interacting with the token smart contract.
+A description of the token's properties (name, symbol, etc.).
+Any additional features or functionality of the token.
+6. Presentation:
+
+Ask students to present their TRC-20 tokens to the class. They should explain the concept, use case, and potential benefits of their token.
+7. Testing and Debugging:
+
+Encourage students to thoroughly test and debug their token smart contract to ensure it functions correctly.
+8. Peer Evaluation:
+
+Consider implementing a peer evaluation component where students provide feedback and suggestions on each other's token projects.
+Evaluation:
+
+Your assignment will be evaluated based on the following criteria:
+
+Clarity and accuracy of the token's concept and purpose.
+Correct implementation of the TRC-20 token smart contract.
+Successful deployment to the TRON testnet.
+Quality of the documentation and user instructions.
+Quality of the presentation, including clarity and demonstration of the token's features.

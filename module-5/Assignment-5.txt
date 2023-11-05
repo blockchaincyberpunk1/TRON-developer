@@ -1,0 +1,44 @@
+Advanced Smart Contract Development
+
+Objective: The objective of this assignment is to challenge students to create advanced TRON smart contracts with complex business logic and functionality.
+
+Instructions:
+
+Task Description:
+
+In this assignment, students will apply their advanced knowledge of TRON smart contract development to create a sophisticated and feature-rich smart contract. They will choose a specific use case that requires complex logic and implement it on the TRON blockchain.
+
+Requirements:
+
+1. Use Case Selection:
+
+Allow students to select a use case that requires advanced smart contract functionality. Some examples include:
+Decentralized Exchange (DEX): Implementing a DEX where users can trade TRON-based tokens.
+Lending and Borrowing Platform: Creating a lending platform with borrowing, lending, and interest calculation features.
+Governance System: Developing a governance system with voting mechanisms and proposals.
+Token Vesting Contract: Implementing a vesting contract with configurable release schedules for tokens.
+Other Complex Use Cases: Encourage students to propose other advanced use cases that align with the assignment's objectives.
+2. Smart Contract Development:
+
+Instruct students to design and develop the TRON smart contract based on their chosen use case. The contract should incorporate complex business logic and advanced features.
+3. Documentation:
+
+Require students to provide comprehensive documentation of their smart contract, including:
+Detailed explanation of the contract's purpose and functionality.
+Description of the contract's internal logic and how it accomplishes its objectives.
+Interaction flows and usage instructions for users.
+4. Testing:
+
+Students should thoroughly test their smart contract to ensure that it functions correctly and securely. They should provide evidence of testing, including test cases and results.
+5. Gas Optimization:
+
+Emphasize the importance of optimizing gas usage in the smart contract. Students should demonstrate their efforts to minimize gas costs while maintaining functionality.
+6. User Interface (Optional):
+
+Optionally, students can create a user interface (UI) or frontend for their smart contract to enhance user interactions and usability. This UI can be a web-based application or any other suitable interface.
+7. Presentation:
+
+Organize a presentation session where students showcase their advanced smart contracts, explain their chosen use cases, and highlight the contract's complexity and functionality.
+8. Evaluation:
+
+Evaluate the quality and complexity of the smart contract, including its advanced features, gas optimization, security, and documentation.

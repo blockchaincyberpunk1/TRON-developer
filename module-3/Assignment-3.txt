@@ -1,0 +1,52 @@
+Building a DApp on TRON
+
+Objective: The objective of this assignment is to introduce students to decentralized application (DApp) development on the TRON platform. By creating a simple DApp that interacts with TRON smart contracts, students will gain hands-on experience in building real-world applications on the TRON blockchain.
+
+Instructions:
+
+Task Description:
+
+In this assignment, students will be challenged to design and develop a simple decentralized application (DApp) that interacts with one or more smart contracts deployed on the TRON blockchain. The assignment encompasses both the front-end and back-end components of DApp development.
+
+Requirements:
+
+1. DApp Concept:
+
+Allow students to choose a concept for their DApp. It can be a basic use case or a more creative idea that demonstrates the potential of DApps on TRON.
+2. Front-End Development:
+
+Instruct students to design and implement the front-end of their DApp. They should create a user-friendly interface that allows users to interact with the DApp.
+3. Smart Contract Integration:
+
+Students should integrate one or more TRON smart contracts into their DApp. These contracts should serve a purpose within the DApp's functionality.
+4. User Interactions:
+
+Define the specific user interactions that the DApp should support. For example, if the DApp is a token-based game, students might implement features like transferring tokens, game mechanics, or rewards.
+5. Blockchain Integration:
+
+Ensure that students implement the necessary code to interact with TRON smart contracts through the TRON network. They should call contract functions and handle transactions appropriately.
+6. Deployment:
+
+Guide students on deploying their DApp to a TRON testnet for testing and demonstration purposes. Provide instructions on how to obtain and fund test TRX for users to interact with the DApp.
+7. Documentation:
+
+Instruct students to create documentation for their DApp. This should include a user guide explaining how to use the DApp and an overview of the smart contracts' functionality.
+8. Presentation:
+
+Require students to present their DApp to the class. They should demonstrate how it works, explain its purpose, and highlight any innovative or unique features.
+9. Testing and Debugging:
+
+Encourage students to thoroughly test and debug their DApp to ensure it functions as intended. This may involve testing different scenarios and handling edge cases.
+10. Peer Evaluation:
+
+Consider implementing a peer evaluation component where students provide feedback and suggestions on each other's DApps.
+Evaluation:
+
+Your assignment will be evaluated based on the following criteria:
+
+Creativity and innovation in the DApp concept.
+User-friendly and well-designed front-end interface.
+Successful integration and interaction with TRON smart contracts.
+Effective implementation of user interactions and functionality.
+Accuracy of documentation and user guide.
+Quality of the presentation, including clarity and demonstration of the DApp's features.

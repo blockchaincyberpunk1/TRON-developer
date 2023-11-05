@@ -1,0 +1,54 @@
+TRON Smart Contract Testing
+
+Objective: The objective of this assignment is to teach students how to thoroughly test TRON smart contracts. By providing sample contracts and requiring students to write comprehensive test cases, they will gain hands-on experience in ensuring the functionality and security of their smart contracts.
+
+Instructions:
+
+Task Description:
+
+In this assignment, students will focus on testing TRON smart contracts using TRON-specific testing tools. They will either receive a sample TRON smart contract or create a simple one, and their task is to write comprehensive test cases to verify the contract's functionality.
+
+Requirements:
+
+1. Sample Contract or Contract Creation:
+
+You can choose one of the following options:
+Provide students with a sample TRON smart contract (e.g., a basic token contract).
+Allow students to create a simple TRON smart contract of their own. If they choose this option, ensure that the contract's functionality is straightforward and can be easily tested.
+2. Comprehensive Test Cases:
+
+Instruct students to create a set of test cases that cover various aspects of the smart contract's functionality. They should include both positive and negative test scenarios.
+Examples of test cases to consider:
+Positive cases: Test contract deployment, successful transactions, and expected results.
+Negative cases: Test scenarios where transactions should fail (e.g., insufficient balance, unauthorized access).
+Boundary cases: Test the limits of the contract's capabilities (e.g., maximum token supply, large transaction amounts).
+Edge cases: Test scenarios that involve unexpected inputs or conditions.
+Encourage students to think critically and ensure that their test cases are thorough.
+3. Use of TRON Testing Tools:
+
+Guide students on how to use TRON-specific testing tools such as Truffle, TronBox, or similar tools. These tools help in deploying and testing smart contracts on the TRON network.
+Ensure that students understand how to set up a local TRON testnet environment if needed.
+4. Test Report:
+
+Students should provide a detailed test report that includes:
+A description of the smart contract being tested.
+A list of test cases, including input values, expected outcomes, and actual outcomes.
+A summary of test results, indicating which test cases passed and which failed.
+Detailed explanations for any test failures.
+Screenshots or logs from the testing tools to support their findings.
+5. Conclusion:
+
+Encourage students to summarize their overall experience with TRON smart contract testing and any insights gained from the process.
+6. Submission:
+
+Students should submit their test cases, test report, and any relevant testing tool configurations.
+Evaluation:
+
+Your assignment will be evaluated based on the following criteria:
+
+Completeness and coverage of test cases, including positive, negative, boundary, and edge cases.
+Correctness and accuracy of test results.
+Clarity and organization of the test report.
+Effective use of TRON-specific testing tools.
+Ability to diagnose and explain test failures.
+Overall understanding of TRON smart contract testing.

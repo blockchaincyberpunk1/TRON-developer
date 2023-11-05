@@ -1,0 +1,51 @@
+TRON Wallet Setup
+
+Objective: The objective of this assignment is to familiarize students with TRON wallets and cryptocurrency transactions. Students will set up a TRON wallet using a popular TRON wallet application and conduct a series of test TRX transactions between their wallets. This hands-on experience will help them understand the basics of cryptocurrency transactions on the TRON blockchain.
+
+Instructions:
+
+Task Description:
+
+Cryptocurrency wallets are an essential part of the blockchain ecosystem. They allow users to store, send, and receive cryptocurrencies securely. In this assignment, you will set up a TRON wallet and perform a series of test TRX transactions.
+
+Requirements:
+
+1. TRON Wallet Setup:
+
+Choose a popular TRON wallet application of your choice (e.g., TronLink, Trust Wallet, or any other compatible wallet).
+Download and install the wallet application on your mobile device or computer.
+Create a new wallet following the wallet application's instructions.
+Safely store your wallet's private key or seed phrase. This information is crucial for wallet recovery.
+2. Test TRX Transactions:
+
+Request a small amount of test TRX (TRON's native cryptocurrency) from your instructor or use a TRON faucet if available.
+Perform the following transactions using your TRON wallet:
+Send a test amount of TRX from your wallet to a classmate's wallet (you can collaborate with a fellow student).
+Receive a test amount of TRX from another classmate.
+Send TRX back to the original sender.
+Document the transaction details for each transaction:
+Transaction sender's address
+Transaction recipient's address
+Transaction amount
+Transaction timestamp
+Include screenshots or transaction IDs to illustrate each step.
+3. Challenges and Learnings:
+
+Describe any challenges or difficulties you encountered during the wallet setup or the test TRX transactions.
+Share your insights and lessons learned from this hands-on experience.
+4. Presentation Format:
+
+Prepare a report or presentation summarizing your wallet setup, test TRX transactions, and challenges/learnings.
+Use clear headings, visuals, and screenshots to enhance the presentation.
+5. Submission:
+
+Submit your report or presentation as per the instructor's guidelines.
+Evaluation:
+
+Your assignment will be evaluated based on the following criteria:
+
+Successful setup of a TRON wallet.
+Accurate execution of test TRX transactions.
+Clarity and organization of the report or presentation.
+Documentation of transaction details with screenshots or transaction IDs.
+Reflection on challenges and lessons learned.
